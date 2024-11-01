@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35424.110 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate.Services", "ProjectTemplate.Services", "{E71883C7-5AA6-434B-A276-D398E5A72D88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate.Docs", "ProjectTemplate.Docs", "{19E0943A-8C78-475A-8B62-E654DD17419C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate.Web", "ProjectTemplate.Web", "{F8592DEE-B17F-4E99-98DB-2200063DAF51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate.BuildingBlocks", "ProjectTemplate.BuildingBlocks", "{0EDBF847-1081-491C-A321-0A7EAB8D4C47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplate.Tests", "ProjectTemplate.Tests", "{0EADC717-EDF7-48D2-AD0B-EF6CEA295C3E}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
